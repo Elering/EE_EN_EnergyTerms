@@ -1,0 +1,39 @@
+English Term,Estonian Term,Source Standard
+channel,(mõõte)kanal,EVS-EN 61000-4-30:2015
+declared input voltage,(määratletud) sisendpinge,EVS-EN 61000-4-30:2015
+declared supply voltage,(määratletud) toitepinge,EVS-EN 61000-4-30:2015
+dip threshold,pingelohu lävepiir,EVS-EN 61000-4-30:2015
+flagged data,märgistatud andmed,EVS-EN 61000-4-30:2015
+flicker,värelus,EVS-EN 61000-4-30:2015
+short-term flicker evaluation (Pst),lühiajalise väreluse hinnang,EVS-EN 61000-4-30:2015
+long-term flicker evaluation (Plt),pikaajalise väreluse hinnang,EVS-EN 61000-4-30:2015
+fundamental component,põhikkomponent,EVS-EN 61000-4-30:2015
+fundamental frequency,põhisagedus,EVS-EN 61000-4-30:2015
+harmonic component,harmooniline komponent,EVS-EN 61000-4-30:2015
+harmonic frequency,harmooniline sagedus,EVS-EN 61000-4-30:2015
+hysteresis,hüstereesis,EVS-EN 61000-4-30:2015
+influence quantity,mõjusuurus,EVS-EN 61000-4-30:2015
+interharmonic component,vaheharmooniline [komponent],EVS-EN 61000-4-30:2015
+interharmonic frequency,vaheharmooniline sagedus,EVS-EN 61000-4-30:2015
+interruption,katkestus,EVS-EN 61000-4-30:2015
+interruption threshold,katkestuse lävepiir,EVS-EN 61000-4-30:2015
+measurement uncertainty,mõõtemääramatus,EVS-EN 61000-4-30:2015
+nominal voltage,nimipinge,EVS-EN 61000-4-30:2015
+overdeviation,ülehälve,EVS-EN 61000-4-30:2015
+power quality,elektrikvaliteet,EVS-EN 61000-4-30:2015
+r.m.s. value,efektiivväärtus,EVS-EN 61000-4-30:2015
+r.m.s. voltage refreshed each half-cycle,igal poolperioodil uuendatud pinge efektiivväärtus,EVS-EN 61000-4-30:2015
+r.m.s. current refreshed each half-cycle,igal poolperioodil uuendatud voolu efektiivväärtus,EVS-EN 61000-4-30:2015
+r.m.s. voltage refreshed each cycle,igal perioodil uuendatud pinge efektiivväärtus,EVS-EN 61000-4-30:2015
+range of influence quantities,mõjusuuruste ulatus,EVS-EN 61000-4-30:2015
+rapid voltage change (RVC),kiire pingemuutus,EVS-EN 61000-4-30:2015
+reference channel,tugikanal,EVS-EN 61000-4-30:2015
+residual voltage (Ures),jääkpinge,EVS-EN 61000-4-30:2015
+sliding reference voltage (Usr),muutuv võrdluspinge,EVS-EN 61000-4-30:2015
+swell threshold,muhu lävepiir,EVS-EN 61000-4-30:2015
+time aggregation,keskmistamine ajas,EVS-EN 61000-4-30:2015
+underdeviation,alahälve,EVS-EN 61000-4-30:2015
+coordinated universal time (UTC),koordineeritud maailmaaeg,EVS-EN 61000-4-30:2015
+voltage dip,pingelohk,EVS-EN 61000-4-30:2015
+voltage swell,pigemuhk,EVS-EN 61000-4-30:2015
+voltage unbalance,pinge ebasümmeetria,EVS-EN 61000-4-30:2015
