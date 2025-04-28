@@ -37,3 +37,29 @@ coordinated universal time (UTC),koordineeritud maailmaaeg,EVS-EN 61000-4-30:201
 voltage dip,pingelohk,EVS-EN 61000-4-30:2015
 voltage swell,pigemuhk,EVS-EN 61000-4-30:2015
 voltage unbalance,pinge ebasümmeetria,EVS-EN 61000-4-30:2015
+English Term,Estonian Term,Source Standard
+PV module,fotoelektriline moodul,EVS-HD 60364-7-712:2016
+PV string,fotoelektriliste moodulite jada, fotoelektriline moodulijada,EVS-HD 60364-7-712:2016
+PV array,fotoelektriline sektsioon,EVS-HD 60364-7-712:2016
+PV generator,fotoelektriline generaator,EVS-HD 60364-7-712:2016
+combiner box,ühenduskast,EVS-HD 60364-7-712:2016
+PV sub-array,fotoelektriline allsektsioon,EVS-HD 60364-7-712:2016
+PV string cable,fotoelektrilise moodulijada kaabel või juhe,EVS-HD 60364-7-712:2016
+PV array cable,fotoelektrilise sektsiooni kaabel või juhe,EVS-HD 60364-7-712:2016
+PV inverter,fotoelektriline vaheldi,EVS-HD 60364-7-712:2016
+PV a.c. supply cable,fotoelektrilisest vaheldist väljuv vahelduvvoolu-toitekaabel või -juhe,EVS-HD 60364-7-712:2016
+PV a.c. supply circuit,fotoelektrilisest vaheldist väljuv vahelduvvoolu-toiteahel,EVS-HD 60364-7-712:2016
+PV installation,fotoelektriline paigaldis,EVS-HD 60364-7-712:2016
+Standard Test Conditions (STC),standardsed katsetustingimused,EVS-HD 60364-7-712:2016
+open-circuit voltage under standard test conditions,tühijooksupinge standardsetes katsetustingimustes,EVS-HD 60364-7-712:2016
+open circuit maximum voltage,suurim tühijooksupinge,EVS-HD 60364-7-712:2016
+short-circuit current under standard test conditions,lühisvool standardsetes katsetustingimustes,EVS-HD 60364-7-712:2016
+short-circuit maximum current,suurim lühisvool,EVS-HD 60364-7-712:2016
+SPD short-circuit current rating,tunnuslühisvool,EVS-HD 60364-7-712:2016
+d.c. side,alalisvoolupool,EVS-HD 60364-7-712:2016
+a.c. side,vahelduvvoolupool,EVS-HD 60364-7-712:2016
+Maximum Power Point Tracking (MPPT),suurima võimsuspunkti järgimine,EVS-HD 60364-7-712:2016
+PV module maximum overcurrent protection rating (MOD_MAX_OCPR),mooduli liigvoolukaitse suurim tunnusväärtus,EVS-HD 60364-7-712:2016
+Lightning Protection System (LPS),piksekaitsesüsteem,EVS-HD 60364-7-712:2016
+functional bonding,talitlus-potentsiaaliühtlustus,EVS-HD 60364-7-712:2016
+
