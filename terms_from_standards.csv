@@ -37,7 +37,6 @@ coordinated universal time (UTC),koordineeritud maailmaaeg,EVS-EN 61000-4-30:201
 voltage dip,pingelohk,EVS-EN 61000-4-30:2015
 voltage swell,pigemuhk,EVS-EN 61000-4-30:2015
 voltage unbalance,pinge ebasümmeetria,EVS-EN 61000-4-30:2015
-English Term,Estonian Term,Source Standard
 PV module,fotoelektriline moodul,EVS-HD 60364-7-712:2016
 PV string,fotoelektriliste moodulite jada, fotoelektriline moodulijada,EVS-HD 60364-7-712:2016
 PV array,fotoelektriline sektsioon,EVS-HD 60364-7-712:2016
